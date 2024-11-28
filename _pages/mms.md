@@ -16,10 +16,10 @@ In my spare time, I enjoy playing basketball (I'm a fan of Russell Westbrook), l
 ## Music
 
 
-<img style="width:100%" src="/kevinlv/assets/img/mms/music1.png" />
+<img style="width:100%" src="/assets/img/mms/music1.png" />
 
 
-<img style="width:100%" src="/kevinlv/assets/img/mms/music2.png" />
+<img style="width:100%" src="/assets/img/mms/music2.png" />
 
 
 "I am a fan of David Tao and Jay Chou, and I am currently collecting their albums.
@@ -28,7 +28,7 @@ In my spare time, I enjoy playing basketball (I'm a fan of Russell Westbrook), l
 ## Sports
 
 
-<img style="width:100%" src="/kevinlv/assets/img/mms/sport1.png" />
+<img style="width:100%" src="/assets/img/mms/sport1.png" />
 
 
 
