@@ -5,7 +5,7 @@
 _site/
 
 Gemfile.lock
-
+.idea/
 
 back/
 
