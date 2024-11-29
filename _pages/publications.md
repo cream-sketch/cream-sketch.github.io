@@ -15,7 +15,7 @@ nav_order: 2
 
 <div style="display: flex;margin-bottom:20px">
 
-<div style=" max-width: 30%; flex: 0 0 30%;">    <img src="/assets/img/publications/1.png" alt="描述" style=" height:100% ;margin-right: 10px;"> </div>
+<div style=" max-width: 30%; flex: 0 0 30%;">    <img src="/assets/img/publications/1.png" alt="描述" style="width:100% ;margin-right: 10px;"> </div>
 
   <div style="flex: 1;  margin-left:20px">
     <li><b>Y. Lyu </b>, Kai Hu. “Text-Aware Learned Image Compression: Enhancing Text Region Quality with Mask-Guided Transform,”</li>

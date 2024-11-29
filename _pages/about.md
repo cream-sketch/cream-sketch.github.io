@@ -34,6 +34,8 @@ I am currently or potentially interested in the following topics:
 I am actively seeking <span  style="color:red"> Ph.D. positions for Fall 2025 </span>. If you have or know of any opportunities that align with my interests, I would be grateful if you could contact me at <a href="mailto:ylyu72@gatech.edu">ylyu72@gatech.edu </a>. I am very interested in discussing any potential opportunities. Thank you!
 
 
+  <p> <br/></p>
+
 ## Academic Service:
 
 Reviewer
@@ -41,20 +43,26 @@ Reviewer
 <li> Conference:  <a href="https://2025.ieee-iscas.org/"> ISCAS(2025)</a>, <a href="https://www.vcip2024.org/">VCIP(2024)</a>
   </li>
 
-
+  <p> <br/></p>
 ## Internship Experience:
 
 <li> Hardware architecture engineer in  <a href="https://www.momenta.cn/"> Momenta</a>, <a href="https://en.horizon.auto/">Horizon Robotics</a> , Shenzhen, China May 2023-Aug 2023
   </li>
 
+  <p> <br/></p>
 
-## Teaching Experience:
 
-<li>Teaching Assistant, The Georgia Institute of Technology     23Fall ECE6607 Computer Communication Networks            Instructor: <a href="https://scholar.google.com/citations?user=WEoyCigAAAAJ&hl=en"> Prof. Min Luo  </a> </li>
+## Teaching Experience: 
+
+<li>Teaching Assistant, The Georgia Institute of Technology     23Fall ECE6607 Computer Communication Networks            Instructor: <a href="https://scholar.google.com/citations?user=WEoyCigAAAAJ&hl=en"> Prof. Min Luo  </a> </li>
 
 <li>Teaching Assistant, The Georgia Institute of Technology    23Spring ECE6601 Technology Entrepreneurship                 Instructor：<a href="https://ece.gatech.edu/directory/gregory-mihalik"> Prof. Gregory B. Mihalik </a> </li>
 
+  <p> <br/></p>
+
 **I am open to discussing research ideas, exploring collaborations, and offering advice, whether life or technically...I will do my best to help**
+
+  <p> <br/></p>
   <!-- Google Calendar Appointment Scheduling begin -->
 <link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
 
