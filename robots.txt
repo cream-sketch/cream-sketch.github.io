@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.kevinlv.com//sitemap.xml
+Sitemap: https://www.kevinlv.com/sitemap.xml
