@@ -46,14 +46,10 @@ Reviewer
   <p> <br/></p>
 ## Internship Experience:
 
-<li> Hardware architecture engineer in  <a href="https://www.momenta.cn/"> Momenta</a>, <a href="https://en.horizon.auto/">Horizon Robotics</a> , Shenzhen, China May 2023-Aug 2023
+<li> Hardware architecture engineer in  <a href="https://www.momenta.cn/"> Momenta</a>, <a href="https://en.horizon.auto/">Horizon Robotics</a> , Shenzhen, China May 2023-Aug 2023 <img src="/assets/img/home/3.png" /> <img src="/assets/img/home/2.png" />
   </li>
-<div> 
-<img src="/assets/img/home/3.png" />
-</div>
-<div> 
-<img src="/assets/img/home/2.png" />
-</div>
+
+
   <p> <br/></p>
 
 
@@ -62,10 +58,8 @@ Reviewer
 <li>Teaching Assistant, The Georgia Institute of Technology     23Fall <br />ECE6607 Computer Communication Networks           <strong>  Instructor:</strong> <a href="https://scholar.google.com/citations?user=WEoyCigAAAAJ&hl=en"> Prof. Min Luo  </a> </li>
 
 
-<li>Teaching Assistant, The Georgia Institute of Technology    23Spring  <br />ECE6601 Technology Entrepreneurship                 <strong>  Instructor:</strong><a href="https://ece.gatech.edu/directory/gregory-mihalik"> Prof. Gregory B. Mihalik </a> </li>
-<div> 
-<img src="/assets/img/home/1.jpg" />
-</div>
+<li>Teaching Assistant, The Georgia Institute of Technology    23Spring  <br />ECE6601 Technology Entrepreneurship                 <strong>  Instructor:</strong><a href="https://ece.gatech.edu/directory/gregory-mihalik"> Prof. Gregory B. Mihalik </a> <img src="/assets/img/home/1.jpg" /> </li>
+
   <p> <br/></p>
 
 **I am open to discussing research ideas, exploring collaborations, and offering advice, whether life or technically...I will do my best to help**
