@@ -54,7 +54,7 @@ Reviewer
 ECE6601 Technology Entrepreneurship  Instructor：Prof. Gregory B.  <a href="https://ece.gatech.edu/directory/gregory-mihalik"> Mihalik</a>
   </li>
 
-<li?>Teaching Assistant, The Georgia Institute of Technology    23Spring
+<li>Teaching Assistant, The Georgia Institute of Technology    23Spring
 ECE6601 Technology Entrepreneurship                 Instructor：Prof. Gregory B. Mihalik </li>
 
 **I am open to discussing research ideas, exploring collaborations, and offering advice, whether life or technically...I will do my best to help**
@@ -62,7 +62,7 @@ ECE6601 Technology Entrepreneurship                 Instructor：Prof. Gregory B
 <link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
 
 <style>
- .L0Dvsd{
+ .qxCTlb{
   display:block;margin:0 auto
  }
 </style>
