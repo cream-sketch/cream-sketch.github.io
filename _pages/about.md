@@ -50,12 +50,9 @@ Reviewer
 
 ## Teaching Experience:
 
-<li>Teaching Assistant, The Georgia Institute of Technology    23Spring
-ECE6601 Technology Entrepreneurship  Instructor：Prof. Gregory B.  <a href="https://ece.gatech.edu/directory/gregory-mihalik"> Mihalik</a>
-  </li>
+<li>Teaching Assistant, The Georgia Institute of Technology     23Fall ECE6607 Computer Communication Networks            Instructor: <a href="https://scholar.google.com/citations?user=WEoyCigAAAAJ&hl=en"> Prof. Min Luo  </a> </li>
 
-<li>Teaching Assistant, The Georgia Institute of Technology    23Spring
-ECE6601 Technology Entrepreneurship                 Instructor：Prof. Gregory B. Mihalik </li>
+<li>Teaching Assistant, The Georgia Institute of Technology    23Spring ECE6601 Technology Entrepreneurship                 Instructor：<a href="https://ece.gatech.edu/directory/gregory-mihalik"> Prof. Gregory B. Mihalik </a> </li>
 
 **I am open to discussing research ideas, exploring collaborations, and offering advice, whether life or technically...I will do my best to help**
   <!-- Google Calendar Appointment Scheduling begin -->
