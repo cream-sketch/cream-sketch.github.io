@@ -14,7 +14,9 @@ nav_order: 2
 ## Work in Progress:
 
 <div style="display: flex;margin-bottom:20px">
-  <img src="/assets/img/publications/1.png" alt="描述" style="flex: 0 0 30%; max-width: 30%; margin-right: 10px;">
+
+<div style=" max-width: 30%; flex: 0 0 30%;">    <img src="/assets/img/publications/1.png" alt="描述" style=" height:100% margin-right: 10px;"> </div>
+
   <div style="flex: 1;">
     <li><b>Y. Lyu </b>, Kai Hu. “Text-Aware Learned Image Compression: Enhancing Text Region Quality with Mask-Guided Transform,”</li>
     <p>Abstract—In recent years, many task-oriented image compression methods have emerged. However, few have focused on maintaining and restoring text region information within
@@ -26,7 +28,8 @@ the-art methods, as validated on two benchmark datasets.</p>
 
 
 <div style="display: flex;margin-bottom:20px">
-  <img src="/assets/img/publications/2.png" alt="描述" style="flex: 0 0 30%; max-width: 30%; margin-right: 10px;">
+  <div style=" max-width: 30%;">   <img src="/assets/img/publications/2.png" alt="描述" style="flex: 0 0 30%; margin-right: 10px;height:100%">
+  </div>
   <div style="flex: 1;">
     <li>Tianle Miao,<b>Y. Lyu </b>, Z. Wu. “FCCQA: A High-Performance FPGA-based Accelerator for Approximate Nearest Neighbor Search,”</li>
     <p>Data search plays a key role in information retrieval and machine learning. Currently, the Field Programmable Gate Array (FPGA) has emerged as a popular hardware accelerator for such studies. In order to maintain a better balance between search time and accuracy, we introduce FCCQA, an exhaustive and scalable data search architecture, utilizing Approximate Nearest Neighbor (ANN) for rapid interrogation of high-dimensional datasets on FPGA. Our architecture adopts the technique of compositing quantization to achieve a high data compression ratio, reducing memory usage to about 1.67%, while efficiently transforming the intricate computation into a simplified table lookup operation in high-dimensional datasets. Compared with GPU and CPU, our approach establishes a superior balance among accuracy, energy efficiency and speed.</p>
@@ -35,7 +38,9 @@ the-art methods, as validated on two benchmark datasets.</p>
 
 
 <div style="display: flex;margin-bottom:20px">
-  <img src="/assets/img/publications/3.png" alt="描述" style="flex: 0 0 30%; max-width: 30%; margin-right: 10px;">
+<div style=" max-width: 30%; flex: 0 0 30%;">    <img src="/assets/img/publications/3.png" alt="描述" style="flex: 0 0 30%;height:100% margin-right: 10px;"> </div>
+
+
   <div style="flex: 1;">
     <li>Multibit Attention Fusion for Gaze Estimation Using 12-Bit RAW Data From CMOS Sensors
 </li>
