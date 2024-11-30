@@ -42,8 +42,7 @@ the-art methods, as validated on two benchmark datasets.</p>
 
 
   <div style="flex: 1;margin-left:20px">
-    <li>Kaiwen Tian, Han Wang, <b>Y. Lyu</b>. "Multibit Attention Fusion for Gaze Estimation Using 12-Bit RAW Data From CMOS Sensors,"
-</li>
+    <li>Kaiwen Tian, Han Wang, <b>Y. Lyu</b>. "Multibit Attention Fusion for Gaze Estimation Using 12-Bit RAW Data From CMOS Sensors," </li>
     <p>Abstract—In recent years, deep learning-based gaze estimation techniques using eye images have made significant progress. However, balancing prediction accuracy and computational complexity remains challenging. In this paper, we propose using the RAW data from a CMOS image sensor as the input, thereby avoiding the high computational demands of the traditional image signal processor (which converts RAW to RGB). We designed a special measuring scheme to collect and annotate a 12-bit RAW dataset. Additionally, we introduce the Multibit Attention Fusion Gaze Estimation Network (MAFN) to accurately perform gaze estimation using 12-bit RAW data. Our MAFN effectively extracts features of varying granularities through attention fusion techniques across different bit depths. We also employ Axial Sensitivity Spatial Attention, which is more sensitive to the horizontal and vertical position of the pupil in gaze angle prediction. Furthermore, we propose Bit Rolling Channelization and Neural Network-Friendly Quantization for lossless input of 12-bit data and low-bit data generation, respectively. Experimental results validate the effectiveness of MAFN and demonstrate the superiority of our method, showing that it can accurately measure gaze direction using 12-bit RAW data.</p>
   </div>
 </div>
