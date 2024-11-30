@@ -46,7 +46,7 @@ Reviewer
   <p> <br/></p>
 ## Internship Experience:
 
-<li> Hardware architecture engineer in  <a href="https://www.momenta.cn/"> Momenta</a>, <a href="https://en.horizon.auto/">Horizon Robotics</a> , Shenzhen, China May 2023-Aug 2023 <img style="width:150px" src="/assets/img/home/3.png" /> <img  style="width:300px" src="/assets/img/home/2.png" />
+<li> Hardware architecture engineer in  <a href="https://www.momenta.cn/"> Momenta</a>, <a href="https://en.horizon.auto/">Horizon Robotics</a> , Shenzhen, China May 2023-Aug 2023 <img style="width:150px" src="/assets/img/home/3.png" /> <img  style="width:200px" src="/assets/img/home/2.png" />
   </li>
 
 
