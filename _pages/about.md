@@ -55,14 +55,14 @@ Reviewer
 
 ## Teaching Experience: 
 
-<li>Teaching Assistant, The Georgia Institute of Technology     23Fall <br />ECE6607 Computer Communication Networks           <strong>  Instructor:</strong> <a href="https://scholar.google.com/citations?user=WEoyCigAAAAJ&hl=en"> Prof. Min Luo  </a> </li>
+<li>Teaching Assistant, The Georgia Institute of Technology      <br />23Fall ECE6607 Computer Communication Networks           <strong>  Instructor:</strong> <a href="https://scholar.google.com/citations?user=WEoyCigAAAAJ&hl=en"> Prof. Min Luo  </a> </a> <img   style="width:200px" src="/assets/img/home/1.jpg" /></li>
 
 
-<li>Teaching Assistant, The Georgia Institute of Technology    23Spring  <br />ECE6601 Technology Entrepreneurship                 <strong>  Instructor:</strong><a href="https://ece.gatech.edu/directory/gregory-mihalik"> Prof. Gregory B. Mihalik </a> <img   style="width:200px" src="/assets/img/home/1.jpg" /> </li>
+<li>Teaching Assistant, The Georgia Institute of Technology    23Spring  <br />23Spring ECE6601 Technology Entrepreneurship                 <strong>  Instructor:</strong><a href="https://ece.gatech.edu/directory/gregory-mihalik"> Prof. Gregory B. Mihalik </a> <img   style="width:200px" src="/assets/img/home/1.jpg" /> </li>
 
   <p> <br/></p>
 
-**I am open to discussing research ideas, exploring collaborations, and offering advice, whether life or technically...I will do my best to help**
+**I am open to discussing research ideas, exploring collaborations, and offering advice, whether life or technically...I will do my best to help, you can book a 30-minute meeting through this button**
 
   <p> <br/></p>
   <!-- Google Calendar Appointment Scheduling begin -->
