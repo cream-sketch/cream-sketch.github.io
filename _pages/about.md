@@ -55,7 +55,7 @@ Reviewer
 
 ## Teaching Experience: 
 
-<li>Teaching Assistant, The Georgia Institute of Technology      <br />23Fall ECE6607 Computer Communication Networks           <strong>  Instructor:</strong> <a href="https://scholar.google.com/citations?user=WEoyCigAAAAJ&hl=en"> Prof. Min Luo  </a> </a> <img   style="width:200px" src="/assets/img/home/1.jpg" /></li>
+<li>Teaching Assistant, The Georgia Institute of Technology      <br />23Fall ECE6607 Computer Communication Networks           <strong>  Instructor:</strong> <a href="https://scholar.google.com/citations?user=WEoyCigAAAAJ&hl=en"> Prof. Min Luo  </a>  <img   style="width:200px" src="/assets/img/home/1.jpg" /></li>
 
 
 <li>Teaching Assistant, The Georgia Institute of Technology    23Spring  <br />23Spring ECE6601 Technology Entrepreneurship                 <strong>  Instructor:</strong><a href="https://ece.gatech.edu/directory/gregory-mihalik"> Prof. Gregory B. Mihalik </a> <img   style="width:200px" src="/assets/img/home/1.jpg" /> </li>
