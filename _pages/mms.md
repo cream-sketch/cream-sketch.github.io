@@ -28,7 +28,7 @@ In my spare time, I enjoy playing basketball (I'm a fan of Russell Westbrook), l
 ## Sports
 
 
-<img style="width:50%" src="/assets/img/mms/sport1.png" />
+<img style="width:50%" src="/assets/img/mms/sport1.jpg" />
 
 
 
