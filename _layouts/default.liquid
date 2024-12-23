@@ -1,18 +1,22 @@
 <!doctype html>
 <html lang="{{ site.lang }}">
   <!-- Head -->
+
   <head>
-    {% if page.redirect %}
-      {% if page.redirect == true %}
-        {% assign redirect = site.baseurl | append: '/' %}
-      {% elsif page.redirect contains '://' %}
-        {% assign redirect = page.redirect %}
-      {% else %}
-        {% assign redirect = page.redirect | relative_url %}
-      {% endif %}
-      <meta http-equiv="refresh" content="3; url={{ redirect }}">
+  {% if page.redirect %}
+    {% if page.redirect == true %}
+      {% assign redirect = site.baseurl | append: '/' %}
+    {% elsif page.redirect contains '://' %}
+      {% assign redirect = page.redirect %}
+    {% else %}
+      {% assign redirect = page.redirect | relative_url %}
     {% endif %}
-    {% include head.liquid %}
+    <meta http-equiv="refresh" content="3; url={{ redirect }}">
+  {% endif %}
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="{{ site.icon }}" type="image/x-icon">
+  <title>{{ page.title }} | {{ site.title }}</title>
   </head>
 
   <!-- Body -->
