@@ -11,7 +11,7 @@ nav_order: 2
 <!-- Bibsearch Feature -->
 
 
-## Work in Progress:
+## Preprint:
 
 <div style="display: flex;margin-bottom:20px">
 
