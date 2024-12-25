@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /mms/
-title: MMS
+permalink: /Miscellaneous/
+title: Miscellaneous
 
 nav: true
 nav_order: 4
