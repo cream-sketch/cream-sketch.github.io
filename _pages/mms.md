@@ -31,7 +31,7 @@ Let’s go Jackets!!
 
 <div style="text-align: center; margin-top: 10px;">
   <img style="width:30%" src="/assets/img/mms/sport1.jpg" alt="sport1" />
-  <p style="margin-top: 5px; font-size: 14px; color: gray;">
+  <p style="margin-top: 5px; font-size: 14px; color: #808080;">
     I’m the one who looks the most handsome...🐕
   </p>
 </div>
