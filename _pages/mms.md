@@ -10,7 +10,7 @@ latest_posts: false
 
 Movie, Music and Sports
 
-In my spare time, I enjoy playing basketball (I'm a fan of Russell Westbrook), listening to music (I like blues), and watching movies (I'm fond of Brad Pitt).
+In my spare time, I enjoy playing basketball (I'm a fan of Russell Westbrook), listening to music (I like blues), and watching movies (I'm a fan of Brad Pitt).
 
 
 ## Music
