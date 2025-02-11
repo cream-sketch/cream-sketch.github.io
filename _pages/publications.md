@@ -26,18 +26,6 @@ the-art methods, as validated on two benchmark datasets.</p>
   </div>
 </div>
 
-
-
-<div style="display: flex;margin-bottom:20px">
-  <div style=" max-width: 30%;">   <img src="/assets/img/publications/2.png" alt="描述" style="flex: 0 0 30%; margin-right: 10px;width:100%">
-  </div>
-  <div style="flex: 1; margin-left:20px">
-    <li>Tianle Miao,<b>Y. Lyu </b>, Z. Wu. “FCCQA: A High-Performance FPGA-based Accelerator for Approximate Nearest Neighbor Search,”</li>
-    <p>Data search plays a key role in information retrieval and machine learning. Currently, the Field Programmable Gate Array (FPGA) has emerged as a popular hardware accelerator for such studies. In order to maintain a better balance between search time and accuracy, we introduce FCCQA, an exhaustive and scalable data search architecture, utilizing Approximate Nearest Neighbor (ANN) for rapid interrogation of high-dimensional datasets on FPGA. Our architecture adopts the technique of compositing quantization to achieve a high data compression ratio, reducing memory usage to about 1.67%, while efficiently transforming the intricate computation into a simplified table lookup operation in high-dimensional datasets. Compared with GPU and CPU, our approach establishes a superior balance among accuracy, energy efficiency and speed.</p>
-  </div>
-</div>
-
-
 <div style="display: flex;margin-bottom:20px">
 <div style=" max-width: 30%; flex: 0 0 30%;">    <img src="/assets/img/publications/3.png" alt="描述" style="flex: 0 0 30%;width:100% ;margin-right: 10px;"> </div>
 
@@ -48,9 +36,16 @@ the-art methods, as validated on two benchmark datasets.</p>
   </div>
 </div>
 
+## Accept:
 
-
- 
+<div style="display: flex;margin-bottom:20px">
+  <div style=" max-width: 30%;">   <img src="/assets/img/publications/2.png" alt="描述" style="flex: 0 0 30%; margin-right: 10px;width:100%">
+  </div>
+  <div style="flex: 1; margin-left:20px">
+    <li>Tianle Miao,<b>Y. Lyu </b>, Z. Wu. “FCCQA: A High-Performance FPGA-based Accelerator for Approximate Nearest Neighbor Search,”</li>
+    <p>Data search plays a key role in information retrieval and machine learning. Currently, the Field Programmable Gate Array (FPGA) has emerged as a popular hardware accelerator for such studies. In order to maintain a better balance between search time and accuracy, we introduce FCCQA, an exhaustive and scalable data search architecture, utilizing Approximate Nearest Neighbor (ANN) for rapid interrogation of high-dimensional datasets on FPGA. Our architecture adopts the technique of compositing quantization to achieve a high data compression ratio, reducing memory usage to about 1.67%, while efficiently transforming the intricate computation into a simplified table lookup operation in high-dimensional datasets. Compared with GPU and CPU, our approach establishes a superior balance among accuracy, energy efficiency and speed.</p>
+  </div>
+</div>
 
 
 
