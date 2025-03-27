@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic_color.jpg
   image_circular: false # crops the image to make it circular
-  caption: aa Thanks to my friends for visiting me during my Achilles tendon rupture at April 5th! (I'm the one in the middle)
+  caption: Thanks to my friends for visiting me during my Achilles tendon rupture at April 5th! (I'm the one in the middle)
 
 
 news: false # includes a list of news items
