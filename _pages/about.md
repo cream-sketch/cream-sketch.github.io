@@ -8,7 +8,7 @@ profile:
   align: right
   image: 1.jpg
   image_circular: false # crops the image to make it circular
-  caption: Thanks to my friends for visiting me during my Achilles tendon rupture at April 5th! (I'm the one in the middle)
+  caption: Thanks to my friends for visiting me during my Achilles tendon rupture at April 5th, 2024! (I'm the one in the middle)
 
 
 news: false # includes a list of news items
@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 latest_posts: false
 ---
-
+* Favorable conditions and proactive recovery arise from the effort of holding on just a little longer.
 
 ## About me: 
 
@@ -30,7 +30,6 @@ I am currently or potentially interested in the following topics:
 
 * **Domain-specific accelerator**: How to design task-oriented hardware accelerators, specifically focusing on real-time data handling and low-power performance?
 * **Software and Hardware co-design**: How to integrate software and hardware to achieve task-specific accelerators?
-* **Image coding for machine vision tasks**: How can we develop deep learned image compression techniques that effectively support a range of downstream vision tasks like semantic segmentation and object detection?
 
 I am actively seeking <span  style="color:red"> Ph.D. positions for Fall 2025 </span>. If you have or know of any opportunities that align with my interests, I would be grateful if you could contact me at <a href="mailto:ylyu72@gatech.edu">ylyu72@gatech.edu </a>. I am very interested in discussing any potential opportunities. Thank you!
 
