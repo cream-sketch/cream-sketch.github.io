@@ -21,7 +21,7 @@ latest_posts: false
 ## About me: 
 
 
-I am a third-year master in ECE at the Georgia Institute of Technology and Tianjin University. Before that, I earned my bachelor’s degrees from Tianjin University in 2022. I am fortunate to collaborate with researchers from  <span style="color:#004080"> Georgia Tech, HKUST, University of Macau and Tianjin University.  </span>
+I am a first-year PhD student in ECE at the George Washington Univeristy. Before that, I obtained master degree from the Georgia Institute of Technology and Tianjin University. Before that, I earned my bachelor’s degrees from Tianjin University in 2022. I am fortunate to collaborate with researchers from  <span style="color:#004080"> Georgia Tech, HKUST, University of Macau and Tianjin University.  </span>
 
 
 
