@@ -40,7 +40,7 @@ I am actively seeking <span  style="color:red"> Ph.D. positions for 2026 </span>
 
 Reviewer
 
-<li> Conference:  <a href="https://2025.ieee-iscas.org/"> ISCAS(2025)</a>, <a href="https://www.vcip2024.org/">VCIP(2024)</a>
+<li> Conference:  <a href="https://2025.ieee-iscas.org/"> International Symposium on Circuits and Systems(ISCAS 2025, 2026)</a>, <a href="https://www.vcip2024.org/">Visual Communication and Image Processing Conference(VCIP2024)</a>
   </li>
 
   <p> <br/></p>
