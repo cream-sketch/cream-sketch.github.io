@@ -31,7 +31,7 @@ I am currently or potentially interested in the following topics:
 * **Domain-specific accelerator**: How to design task-oriented hardware accelerators, specifically focusing on real-time data handling and low-power performance?
 * **Software and Hardware co-design**: How to integrate software and hardware to achieve task-specific accelerators?
 
-I am actively seeking <span  style="color:red"> Ph.D. positions for 2026 </span>. If you have or know of any opportunities that align with my interests, I would be grateful if you could contact me at <a href="mailto:ylyu72@gatech.edu">ylyu72@gatech.edu </a>. I am very interested in discussing any potential opportunities. Thank you!
+I am actively seeking <span  style="color:red"> collaboration opportunities </span>. If you have or know of any opportunities that align with my interests, I would be grateful if you could contact me at <a href="mailto:ylyu72@gatech.edu">ylyu72@gatech.edu </a>. I am very interested in discussing any potential opportunities. Thank you!
 
 
   <p> <br/></p>
