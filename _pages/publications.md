@@ -11,8 +11,9 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
- 
-## Preprint:
+Please refer to my Google Scholar profile for my most up-to-date publication list.
+
+## Accept:
 
 <div style="display: flex;margin-bottom:20px">
 
@@ -36,7 +37,7 @@ the-art methods, as validated on two benchmark datasets.</p>
   </div>
 </div>
 
-## Accept:
+
 
 <div style="display: flex;margin-bottom:20px">
   <div style=" max-width: 30%;">   <img src="/assets/img/publications/2.png" alt="描述" style="flex: 0 0 30%; margin-right: 10px;width:100%">
