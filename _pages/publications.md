@@ -12,6 +12,7 @@ nav_order: 2
 <!-- Bibsearch Feature -->
 
 <div style="font-size: 1.2em; margin-bottom: 20px;">
+
 Please refer to my Google Scholar profile for my most up-to-date publication list.
 <a href="https://scholar.google.com/citations?user=mf6ZPQ0AAAAJ&hl=zh-CN" target="_blank" rel="noopener noreferrer">
   <img src="/assets/img/publications/4.png" alt="Google Scholar" style="width:28px; height:28px; vertical-align: middle; margin-left: 5px;">
