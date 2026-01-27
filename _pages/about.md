@@ -21,7 +21,7 @@ latest_posts: false
 ## About me: 
 
 
-I obtained master degree from the Georgia Institute of Technology and Tianjin University. Before that, I earned my bachelor’s degrees from Tianjin University in 2022. I am fortunate to collaborate with researchers from  <span style="color:#004080"> Georgia Tech, HKUST, University of Macau and Tianjin University.  </span>
+I obtained master degree from the Georgia Institute of Technology and Tianjin University in 2025. Before that, I earned my bachelor’s degrees from Tianjin University in 2022. I am fortunate to collaborate with researchers from  <span style="color:#004080"> Georgia Tech, HKUST, University of Macau and Tianjin University.  </span>
 
 
 
@@ -40,7 +40,7 @@ I am actively seeking <span  style="color:red"> collaboration opportunities </sp
 
 Reviewer
 
-<li> Conference:  <a href="https://2025.ieee-iscas.org/"> International Symposium on Circuits and Systems(ISCAS 2025, 2026)</a>, <a href="https://www.vcip2024.org/">Visual Communication and Image Processing Conference(VCIP2024)</a>
+<> Conference:  <a href="https://2025.ieee-iscas.org/"> International Symposium on Circuits and Systems(ISCAS 2025, 2026)</a>, <a href="https://www.vcip2024.org/">Visual Communication and Image Processing Conference(VCIP2024)</a>, <a href="https://iscaconf.org/isca2026/"> ISCA 2026 </a>
   </li>
 
   <p> <br/></p>
