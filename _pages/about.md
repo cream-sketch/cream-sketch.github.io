@@ -21,7 +21,7 @@ latest_posts: false
 ## About me: 
 
 
-I obtained master degree from the Georgia Institute of Technology and Tianjin University in 2025. Before that, I earned my bachelor’s degrees from Tianjin University in 2022. I am fortunate to collaborate with researchers from  <span style="color:#004080"> Georgia Tech, HKUST, University of Macau and Tianjin University.  </span>
+I obtained master degree in ECE from the Georgia Institute of Technology and Tianjin University in 2025. Before that, I earned my bachelor’s degree in Electrical Engineering from Tianjin University in 2022. I am fortunate to collaborate with researchers from  <span style="color:#004080"> Georgia Tech, HKUST, University of Macau and Tianjin University.  </span>
 
 
 
