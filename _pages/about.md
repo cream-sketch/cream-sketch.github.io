@@ -59,32 +59,3 @@ Reviewer
 
 
 <li>Teaching Assistant, The Georgia Institute of Technology    23Spring  <br />23Spring ECE6601 Technology Entrepreneurship                 <strong>  Instructor:</strong><a href="https://ece.gatech.edu/directory/gregory-mihalik"> Prof. Gregory B. Mihalik </a> <img   style="width:200px" src="/assets/img/home/1.jpg" /> </li>
-
-  <p> <br/></p>
-
-**I am open to discussing research ideas, exploring collaborations, and offering advice, whether life or technically...I will do my best to help, you can book a 30-minute meeting through this button**
-
-  <p> <br/></p>
-  <!-- Google Calendar Appointment Scheduling begin -->
-<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
-
-<style>
- .qxCTlb{
-  display:block;margin:0 auto
- }
-</style>
-<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
-<script>
-(function() {
-  var target = document.currentScript;
-  window.addEventListener('load', function() {
-    calendar.schedulingButton.load({
-      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ3XcmCqU_E4LqAYMcoFSQOJ-LcWAIVoL0JUja9LiHQ3366ju7WsMhPRUtSfqfAQXjuPaHizPUr3?gv=true',
-      color: '#3F51B5',
-      label: "Book an appointment with Kevin Lyu ",
-      target,
-    });
-  });
-})();
-</script>
-<!-- end Google Calendar Appointment Scheduling -->
