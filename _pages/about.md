@@ -8,6 +8,7 @@ profile:
   align: right
   image: kevin_profile_2026.jpg
   image_circular: false # crops the image to make it circular
+  width: 10%
   caption:
 
 
