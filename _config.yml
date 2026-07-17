@@ -2,16 +2,16 @@
 # Site settings  
 # -----------------------------------------------------------------------------
 
-title: Yongxiang  (Kevin) Lyu  # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name:  (Kevin)
+title: Yongxiang (Kevin) Lyu  # the website title (if blank, full name will be used instead)
+first_name: Yongxiang
+middle_name: (Kevin)
 last_name: Lyu
-email:  kevinlv@tju.edu.cn
+email: yongxianglyu@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
- 
+  Personal academic website of Yongxiang (Kevin) Lyu.
 footer_text: >
 
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: Yongxiang Lyu, Kevin Lyu, computer architecture, hardware accelerator, software hardware co-design
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 #icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 icon: emoji.ico
@@ -75,10 +75,10 @@ dblp_url: # your DBLP profile url
 discord_id: # your discord id (18-digit unique numerical identifier)
 facebook_id: # your facebook id
 flickr_id: # your flickr id
-github_username: # your GitHub user name
+github_username: cream-sketch # your GitHub user name
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
-inspirehep_id: 1010907 # Inspire HEP author ID
+inspirehep_id: # Inspire HEP author ID
 instagram_id: # your instagram id
 kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
@@ -93,7 +93,7 @@ pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
 research_gate_profile: # your profile on ResearchGate
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
+scholar_userid: mf6ZPQ0AAAAJ # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
@@ -110,7 +110,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  The best way to reach me is by email.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -304,8 +304,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Lyu]
+  first_name: [Yongxiang, Y., Kevin]
 
   style: apa
   locale: en
@@ -334,7 +334,7 @@ enable_publication_badges:
   altmetric: true # Altmetric badge (Customization options: https://badge-docs.altmetric.com/index.html)
   dimensions: true # Dimensions badge (Customization options: https://badge.dimensions.ai/)
   google_scholar: true # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
-  inspirehep: true # Inspire HEP badge (https://help.inspirehep.net/knowledge-base/citation-metrics/)
+  inspirehep: false # Inspire HEP badge (https://help.inspirehep.net/knowledge-base/citation-metrics/)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
 filtered_bibtex_keywords:

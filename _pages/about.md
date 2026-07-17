@@ -6,9 +6,9 @@ subtitle:
 
 profile:
   align: right
-  image: 1.jpg
+  image: kevin_profile_2026.jpg
   image_circular: false # crops the image to make it circular
-  caption: Thanks to my friends for visiting me during my Achilles tendon rupture at April 5th, 2024! (I'm the one in the middle)
+  caption:
 
 
 news: false # includes a list of news items
@@ -21,7 +21,7 @@ latest_posts: false
 ## About me: 
 
 
-I obtained master degree in ECE from the Georgia Institute of Technology and Tianjin University in 2025. Before that, I earned my bachelor’s degree in Electrical Engineering from Tianjin University in 2022. I am fortunate to collaborate with researchers from  <span style="color:#004080"> Georgia Tech, HKUST, University of Macau and Tianjin University.  </span>
+I obtained my master's degree in ECE from the Georgia Institute of Technology and Tianjin University in 2025. Before that, I earned my bachelor's degree in Electrical Engineering from Tianjin University in 2022. I am fortunate to collaborate with researchers from  <span style="color:#004080"> Georgia Tech, HKUST, University of Macau and Tianjin University.  </span>
 
 
 
@@ -31,7 +31,7 @@ I am currently or potentially interested in the following topics:
 * **Domain-specific accelerator**: How to design task-oriented hardware accelerators, specifically focusing on real-time data handling and low-power performance?
 * **Software and Hardware co-design**: How to integrate software and hardware to achieve task-specific accelerators?
 
-I am actively seeking <span  style="color:red"> collaboration opportunities </span>. If you have or know of any opportunities that align with my interests, I would be grateful if you could contact me at <a href="mailto:ylyu72@gatech.edu">ylyu72@gatech.edu </a>. I am very interested in discussing any potential opportunities. Thank you!
+I am actively seeking <span  style="color:red"> collaboration opportunities </span>. If you have or know of any opportunities that align with my interests, I would be grateful if you could contact me at <a href="mailto:yongxianglyu@gmail.com">yongxianglyu@gmail.com</a>. I am very interested in discussing any potential opportunities. Thank you!
 
 
   <p> <br/></p>
