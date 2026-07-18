@@ -35,15 +35,29 @@ Let’s go Jackets!!
 
 ### Hiking
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 10px;">
-  <figure style="margin: 0; max-width: 360px;">
-    <img style="width: 100%; display: block;" src="/assets/img/mms/hiking-shenzhen-observatory-2026.jpg" alt="Shenzhen Observatory" />
-    <figcaption style="margin-top: 5px; font-size: 14px; color: #808080;">Shenzhen Observatory, July 2026</figcaption>
-  </figure>
-  <figure style="margin: 0; max-width: 360px;">
-    <img style="width: 100%; display: block;" src="/assets/img/mms/hiking-shenandoah-national-park-2025.jpg" alt="Shenandoah National Park" />
-    <figcaption style="margin-top: 5px; font-size: 14px; color: #808080;">Shenandoah National Park, November 2025</figcaption>
-  </figure>
+<div id="hikingCarousel" class="carousel slide" data-ride="carousel" data-interval="false" style="max-width: 560px; margin-top: 10px;">
+  <ol class="carousel-indicators">
+    <li data-target="#hikingCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#hikingCarousel" data-slide-to="1"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="/assets/img/mms/hiking-shenzhen-observatory-2026.jpg" class="d-block w-100" alt="Shenzhen Observatory" style="height: 420px; object-fit: cover;">
+      <p style="margin-top: 8px; font-size: 14px; color: #808080;">Shenzhen Observatory, July 2026</p>
+    </div>
+    <div class="carousel-item">
+      <img src="/assets/img/mms/hiking-shenandoah-national-park-2025.jpg" class="d-block w-100" alt="Shenandoah National Park" style="height: 420px; object-fit: cover;">
+      <p style="margin-top: 8px; font-size: 14px; color: #808080;">Shenandoah National Park, November 2025</p>
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#hikingCarousel" role="button" data-slide="prev" style="width: 12%;">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#hikingCarousel" role="button" data-slide="next" style="width: 12%;">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
 </div>
 
 
