@@ -39,6 +39,7 @@ Let’s go Jackets!!
   <ol class="carousel-indicators">
     <li data-target="#hikingCarousel" data-slide-to="0" class="active"></li>
     <li data-target="#hikingCarousel" data-slide-to="1"></li>
+    <li data-target="#hikingCarousel" data-slide-to="2"></li>
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
@@ -48,6 +49,10 @@ Let’s go Jackets!!
     <div class="carousel-item">
       <img src="/assets/img/mms/hiking-shenandoah-national-park-2025.jpg" class="d-block w-100" alt="Shenandoah National Park" style="height: 420px; object-fit: cover;">
       <p style="margin-top: 8px; font-size: 14px; color: #808080;">Shenandoah National Park, November 2025</p>
+    </div>
+    <div class="carousel-item">
+      <img src="/assets/img/mms/hiking-potomac-river-bridge-2025.jpg" class="d-block w-100" alt="Potomac River Bridge between Virginia and Washington, DC" style="height: 420px; object-fit: cover;">
+      <p style="margin-top: 8px; font-size: 14px; color: #808080;">Potomac River Bridge between Virginia and Washington, DC, August 2025</p>
     </div>
   </div>
   <a class="carousel-control-prev" href="#hikingCarousel" role="button" data-slide="prev" style="width: 12%;">
