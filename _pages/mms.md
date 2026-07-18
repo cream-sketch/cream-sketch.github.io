@@ -33,5 +33,18 @@ Let’s go Jackets!!
   </p>
 </div>
 
+### Hiking
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 10px;">
+  <figure style="margin: 0; max-width: 360px;">
+    <img style="width: 100%; display: block;" src="/assets/img/mms/hiking-shenzhen-observatory-2026.jpg" alt="Shenzhen Observatory" />
+    <figcaption style="margin-top: 5px; font-size: 14px; color: #808080;">Shenzhen Observatory, July 2026</figcaption>
+  </figure>
+  <figure style="margin: 0; max-width: 360px;">
+    <img style="width: 100%; display: block;" src="/assets/img/mms/hiking-shenandoah-national-park-2025.jpg" alt="Shenandoah National Park" />
+    <figcaption style="margin-top: 5px; font-size: 14px; color: #808080;">Shenandoah National Park, November 2025</figcaption>
+  </figure>
+</div>
+
 
 
