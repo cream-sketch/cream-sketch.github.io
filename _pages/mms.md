@@ -17,10 +17,28 @@ In my spare time, I enjoy playing basketball (I'm a fan of Russell Westbrook), l
 
 I am a fan of David Tao and Jay Chou, and I am currently collecting their albums.
 
-<img style="width:30%" src="/assets/img/mms/music1.png" />
-
-
-<img style="width:30%" src="/assets/img/mms/music2.png" />
+<div id="musicCarousel" class="carousel slide" data-ride="carousel" data-interval="false" style="max-width: 560px; margin-top: 10px;">
+  <ol class="carousel-indicators">
+    <li data-target="#musicCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#musicCarousel" data-slide-to="1"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="/assets/img/mms/music1.png" class="d-block w-100" alt="Music collection" style="height: 420px; object-fit: contain;">
+    </div>
+    <div class="carousel-item">
+      <img src="/assets/img/mms/music2.png" class="d-block w-100" alt="Music collection" style="height: 420px; object-fit: contain;">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#musicCarousel" role="button" data-slide="prev" style="width: 12%;">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#musicCarousel" role="button" data-slide="next" style="width: 12%;">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
 
 
 ## Sports
