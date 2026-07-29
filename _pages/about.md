@@ -29,8 +29,8 @@ I obtained my master's degree in ECE from the Georgia Institute of Technology an
 
 I am currently or potentially interested in the following topics:
 
-* **Efficient Computing System**: How to design low-latency and high-throughput computing systems in the context of AI and quantum computing?
-* **Software and Hardware co-design**: How to jointly optimize algorithms, compiler/runtime support, data movement, and hardware architecture to build efficient and scalable domain-specific systems?
+* **Efficient Computing Systems**: Focusing on the design of low-latency, high-throughput computing systems for AI and quantum computing.
+* **Software and Hardware Co-design**: Exploring the joint optimization of algorithms, compiler and runtime support, data movement, and hardware architectures to build efficient and scalable domain-specific systems.
 
 I am actively seeking <span  style="color:red"> collaboration opportunities </span>. If you have or know of any opportunities that align with my interests, I would be grateful if you could contact me at <a href="mailto:yongxianglyu@gmail.com">yongxianglyu@gmail.com</a>. I am very interested in discussing any potential opportunities. Thank you!
 
