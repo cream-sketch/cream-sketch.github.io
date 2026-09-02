@@ -41,7 +41,7 @@ I am actively seeking <span  style="color:red"> collaboration opportunities </sp
 
 Reviewer
 
-<li> Conference:  <a href="https://2025.ieee-iscas.org/"> International Symposium on Circuits and Systems(ISCAS 2025, 2026)</a>, <a href="https://www.vcip2024.org/">Visual Communication and Image Processing Conference(VCIP2024)</a>, <a href="https://iscaconf.org/isca2026/"> International Symposium on Computer Architecture (ISCA) 2026 </a>
+<li> Conference:  <a href="https://2025.ieee-iscas.org/"> International Symposium on Circuits and Systems(ISCAS 2025, 2026)</a>, <a href="https://www.vcip2024.org/">Visual Communication and Image Processing Conference(VCIP2024)</a>, <a href="https://iscaconf.org/isca2026/"> International Symposium on Computer Architecture (ISCA) 2026 </a>, <a href="https://conf.researchr.org/home/hpca-2027">IEEE International Symposium on High-Performance Computer Architecture (HPCA 2027)</a>
   </li>
 <li> Journal: IEEE Transactions on Computers, IEEE Transactions on Circuits and Systems for Video Technology
   </li>
