@@ -22,7 +22,7 @@ latest_posts: false
 ## About me: 
 
 
-I am currently a Ph.D. student in ECE at North Carolina State University, co-advised by <a href="https://scholar.google.com/citations?hl=en&user=5EGClVoAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" rel="noopener noreferrer">Prof. Yuan Liu</a> and <a href="https://hzhou.wordpress.ncsu.edu/" target="_blank" rel="noopener noreferrer">Prof. Huiyang Zhou</a>. I obtained my master's degree in ECE from the Georgia Institute of Technology and Tianjin University in 2025. Before that, I earned my bachelor's degree in Electrical Engineering from Tianjin University in 2022. I am fortunate to collaborate with researchers from  <span style="color:#004080"> Georgia Tech, HKUST, University of Macau and Tianjin University.  </span>
+I am currently a Ph.D. student in ECE at North Carolina State University, co-advised by <a href="https://scholar.google.com/citations?hl=en&user=5EGClVoAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" rel="noopener noreferrer">Prof. Yuan Liu</a> and <a href="https://hzhou.wordpress.ncsu.edu/" target="_blank" rel="noopener noreferrer">Prof. Huiyang Zhou</a>. I obtained my master's degree in ECE from the Georgia Institute of Technology and Tianjin University in 2025. Before that, I earned my bachelor's degree in Electrical Engineering from Tianjin University in 2022. I am fortunate to collaborate with researchers from <span style="color:#004080">Georgia Tech, HKUST, University of Macau, Tianjin University, and New York University.</span>
 
 
 
